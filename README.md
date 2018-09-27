@@ -9,8 +9,8 @@ https://github.com/louipr/vsinit.git
 * Dummy
 
 
-### Dummy Title
-Dummy description
+### Examples: readme.py
+Generate a README.md file for project: boost_mem, language c++
 ```
-Dummy command
+python .\readme.py -p boost_mem -l c++ -s
 ```
